@@ -1,2 +1,4 @@
 # car-rental-system
-```npm start ```
+``` npm start ``` for car rental 
+
+```  nodemon index.js  ``` for backend
